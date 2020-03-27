@@ -7,3 +7,8 @@ NAME
 DESCRIPTION
 
     This program counts the number of taxis in each station and organizes the services requested by customers depending on their area.
+
+AUTHORS
+
+    Jhonathan Angarita.
+    David de la Hoz.
